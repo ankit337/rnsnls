@@ -1556,6 +1556,7 @@ section {
 #footer .credits {
   float: right;
   font-size: 13px;
+  color: #5074a8;
 }
 #footer .credits a {
   transition: 0.3s;
